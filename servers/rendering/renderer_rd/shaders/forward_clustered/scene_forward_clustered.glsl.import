@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://pi61qjlpm408"
+path="res://.godot/imported/scene_forward_clustered.glsl-355a00c25bb35f59e387b160a1ff9757.res"
+
+[deps]
+
+source_file="res://Godot/servers/rendering/renderer_rd/shaders/forward_clustered/scene_forward_clustered.glsl"
+dest_files=["res://.godot/imported/scene_forward_clustered.glsl-355a00c25bb35f59e387b160a1ff9757.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dk4fxqlai3bh2"
+path="res://.godot/imported/roughness_limiter.glsl-82d9c77fe5c71602a0dfb3bde447b678.res"
+
+[deps]
+
+source_file="res://Godot/servers/rendering/renderer_rd/shaders/effects/roughness_limiter.glsl"
+dest_files=["res://.godot/imported/roughness_limiter.glsl-82d9c77fe5c71602a0dfb3bde447b678.res"]
+
+[params]
+

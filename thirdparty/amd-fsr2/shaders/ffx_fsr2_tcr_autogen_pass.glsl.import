@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bby1w26i8gluc"
+path="res://.godot/imported/ffx_fsr2_tcr_autogen_pass.glsl-b179a4a46a14790e5162907c2b721198.res"
+
+[deps]
+
+source_file="res://Godot/thirdparty/amd-fsr2/shaders/ffx_fsr2_tcr_autogen_pass.glsl"
+dest_files=["res://.godot/imported/ffx_fsr2_tcr_autogen_pass.glsl-b179a4a46a14790e5162907c2b721198.res"]
+
+[params]
+

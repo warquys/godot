@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ru32fs5f7mam"
+path="res://.godot/imported/canvas_sdf.glsl-2f4c3e44924fadb508427c420efda90f.res"
+
+[deps]
+
+source_file="res://Godot/drivers/gles3/shaders/canvas_sdf.glsl"
+dest_files=["res://.godot/imported/canvas_sdf.glsl-2f4c3e44924fadb508427c420efda90f.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://drwta6ohfpdh3"
+path="res://.godot/imported/subsurface_scattering.glsl-6043b4d08b2ece42cc64dba05b2af684.res"
+
+[deps]
+
+source_file="res://Godot/servers/rendering/renderer_rd/shaders/effects/subsurface_scattering.glsl"
+dest_files=["res://.godot/imported/subsurface_scattering.glsl-6043b4d08b2ece42cc64dba05b2af684.res"]
+
+[params]
+

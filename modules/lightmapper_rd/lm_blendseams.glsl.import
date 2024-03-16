@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dk75wxneh8nm6"
+path="res://.godot/imported/lm_blendseams.glsl-6df373f3ea0e5a39abd3207b1fdcc78d.res"
+
+[deps]
+
+source_file="res://Godot/modules/lightmapper_rd/lm_blendseams.glsl"
+dest_files=["res://.godot/imported/lm_blendseams.glsl-6df373f3ea0e5a39abd3207b1fdcc78d.res"]
+
+[params]
+

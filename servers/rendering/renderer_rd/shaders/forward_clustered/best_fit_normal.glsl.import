@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://3qfy43bm3acu"
+path="res://.godot/imported/best_fit_normal.glsl-cfabc8fe27d21ee3c96a9d783dcde5c5.res"
+
+[deps]
+
+source_file="res://Godot/servers/rendering/renderer_rd/shaders/forward_clustered/best_fit_normal.glsl"
+dest_files=["res://.godot/imported/best_fit_normal.glsl-cfabc8fe27d21ee3c96a9d783dcde5c5.res"]
+
+[params]
+

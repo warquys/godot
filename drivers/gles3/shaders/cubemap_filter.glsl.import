@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cvxxoogrvmw4v"
+path="res://.godot/imported/cubemap_filter.glsl-9355f4d1faa1aae09bf3e82bcb2a9074.res"
+
+[deps]
+
+source_file="res://Godot/drivers/gles3/shaders/cubemap_filter.glsl"
+dest_files=["res://.godot/imported/cubemap_filter.glsl-9355f4d1faa1aae09bf3e82bcb2a9074.res"]
+
+[params]
+

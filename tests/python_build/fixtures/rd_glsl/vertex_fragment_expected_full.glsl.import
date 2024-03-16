@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://buppgh3m6a7vj"
+path="res://.godot/imported/vertex_fragment_expected_full.glsl-fca81c48928dd7c9f5de2b3613c1e9a1.res"
+
+[deps]
+
+source_file="res://Godot/tests/python_build/fixtures/rd_glsl/vertex_fragment_expected_full.glsl"
+dest_files=["res://.godot/imported/vertex_fragment_expected_full.glsl-fca81c48928dd7c9f5de2b3613c1e9a1.res"]
+
+[params]
+

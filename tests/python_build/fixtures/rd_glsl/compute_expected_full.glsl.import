@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bk7cp2lmfl4ny"
+path="res://.godot/imported/compute_expected_full.glsl-410c2e9f7116f369c7bf62ed06ab63ca.res"
+
+[deps]
+
+source_file="res://Godot/tests/python_build/fixtures/rd_glsl/compute_expected_full.glsl"
+dest_files=["res://.godot/imported/compute_expected_full.glsl-410c2e9f7116f369c7bf62ed06ab63ca.res"]
+
+[params]
+

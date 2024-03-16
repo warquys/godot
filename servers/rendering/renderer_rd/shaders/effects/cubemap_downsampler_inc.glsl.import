@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dlk0tjuytqryc"
+path="res://.godot/imported/cubemap_downsampler_inc.glsl-324db1059ab29aa4f872110833c775bb.res"
+
+[deps]
+
+source_file="res://Godot/servers/rendering/renderer_rd/shaders/effects/cubemap_downsampler_inc.glsl"
+dest_files=["res://.godot/imported/cubemap_downsampler_inc.glsl-324db1059ab29aa4f872110833c775bb.res"]
+
+[params]
+

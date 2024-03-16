@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://baen0cmj0re1s"
+path="res://.godot/imported/cubemap_roughness.glsl-24ef6cd100e4cb38e70fe1ac0b6cd9ab.res"
+
+[deps]
+
+source_file="res://Godot/servers/rendering/renderer_rd/shaders/effects/cubemap_roughness.glsl"
+dest_files=["res://.godot/imported/cubemap_roughness.glsl-24ef6cd100e4cb38e70fe1ac0b6cd9ab.res"]
+
+[params]
+

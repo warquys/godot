@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bmof5o87m6v0w"
+path="res://.godot/imported/decal_data_inc.glsl-0357b40768d53a1ff04780de8424194b.res"
+
+[deps]
+
+source_file="res://Godot/servers/rendering/renderer_rd/shaders/decal_data_inc.glsl"
+dest_files=["res://.godot/imported/decal_data_inc.glsl-0357b40768d53a1ff04780de8424194b.res"]
+
+[params]
+

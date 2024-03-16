@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://3m1e5nndwdp8"
+path="res://.godot/imported/_included.glsl-b0084dfd7a801ad2e1805a8a701a2424.res"
+
+[deps]
+
+source_file="res://Godot/tests/python_build/fixtures/gles3/_included.glsl"
+dest_files=["res://.godot/imported/_included.glsl-b0084dfd7a801ad2e1805a8a701a2424.res"]
+
+[params]
+

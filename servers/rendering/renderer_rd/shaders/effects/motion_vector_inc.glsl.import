@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bgicb5a5wl1dx"
+path="res://.godot/imported/motion_vector_inc.glsl-c662bc6c92d219aa3754bbae8773cbf9.res"
+
+[deps]
+
+source_file="res://Godot/servers/rendering/renderer_rd/shaders/effects/motion_vector_inc.glsl"
+dest_files=["res://.godot/imported/motion_vector_inc.glsl-c662bc6c92d219aa3754bbae8773cbf9.res"]
+
+[params]
+

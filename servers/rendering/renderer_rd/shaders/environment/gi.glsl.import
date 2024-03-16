@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://rpfedurirnci"
+path="res://.godot/imported/gi.glsl-cc8b62d1ef4164886844e561ab1c7917.res"
+
+[deps]
+
+source_file="res://Godot/servers/rendering/renderer_rd/shaders/environment/gi.glsl"
+dest_files=["res://.godot/imported/gi.glsl-cc8b62d1ef4164886844e561ab1c7917.res"]
+
+[params]
+

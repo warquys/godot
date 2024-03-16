@@ -4,6 +4,7 @@ using System.Collections;
 using System.Diagnostics.CodeAnalysis;
 using System.Runtime.CompilerServices;
 using Godot.NativeInterop;
+using System.Diagnostics;
 
 #nullable enable
 
@@ -14,6 +15,8 @@ namespace Godot.Collections
     /// typed elements allocated in the engine in C++. Useful when
     /// interfacing with the engine.
     /// </summary>
+    [DebuggerTypeProxy(typeof(ICollectionDebugView<KeyValuePair<Variant, Variant>>))]
+    [DebuggerDisplay("Count = {Count}")]
     public sealed class Dictionary :
         IDictionary<Variant, Variant>,
         IReadOnlyDictionary<Variant, Variant>,

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://mfcmjdt6phve"
+path="res://.godot/imported/ffx_fsr2_rcas_pass.glsl-d3a9a7053db58a07e832e7434b5b789b.res"
+
+[deps]
+
+source_file="res://Godot/thirdparty/amd-fsr2/shaders/ffx_fsr2_rcas_pass.glsl"
+dest_files=["res://.godot/imported/ffx_fsr2_rcas_pass.glsl-d3a9a7053db58a07e832e7434b5b789b.res"]
+
+[params]
+

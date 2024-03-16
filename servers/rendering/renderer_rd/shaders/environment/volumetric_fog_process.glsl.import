@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://rasp8yar7ote"
+path="res://.godot/imported/volumetric_fog_process.glsl-89aacc8860d1c910cb6c2b8f53d2c614.res"
+
+[deps]
+
+source_file="res://Godot/servers/rendering/renderer_rd/shaders/environment/volumetric_fog_process.glsl"
+dest_files=["res://.godot/imported/volumetric_fog_process.glsl-89aacc8860d1c910cb6c2b8f53d2c614.res"]
+
+[params]
+

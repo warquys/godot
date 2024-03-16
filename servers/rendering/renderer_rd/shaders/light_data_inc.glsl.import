@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://0ne7d27uds01"
+path="res://.godot/imported/light_data_inc.glsl-6cd66ef6e0a2b7c80f42ae4276ba5dbf.res"
+
+[deps]
+
+source_file="res://Godot/servers/rendering/renderer_rd/shaders/light_data_inc.glsl"
+dest_files=["res://.godot/imported/light_data_inc.glsl-6cd66ef6e0a2b7c80f42ae4276ba5dbf.res"]
+
+[params]
+
