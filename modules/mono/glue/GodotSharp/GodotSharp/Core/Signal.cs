@@ -1,8 +1,11 @@
+using System.Diagnostics;
+
 namespace Godot
 {
     /// <summary>
     /// Represents a signal defined in an object.
     /// </summary>
+    [DebuggerDisplay($"{{{nameof(GetDebuggerDisplay)}(),nq}}")]
     public readonly struct Signal : IAwaitable<Variant[]>
     {
         private readonly GodotObject _owner;
@@ -33,6 +36,11 @@ namespace Godot
         public IAwaiter<Variant[]> GetAwaiter()
         {
             return new SignalAwaiter(_owner, _signalName, _owner);
+        }
+
+        private string GetDebuggerDisplay()
+        {
+            return $"Owner = {_owner}, Name = {_signalName}";
         }
     }
 }

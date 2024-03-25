@@ -15,7 +15,7 @@ namespace Godot.Collections
     /// typed elements allocated in the engine in C++. Useful when
     /// interfacing with the engine.
     /// </summary>
-    [DebuggerTypeProxy(typeof(ICollectionDebugView<KeyValuePair<Variant, Variant>>))]
+    [DebuggerTypeProxy(typeof(Dictionary))]
     [DebuggerDisplay("Count = {Count}")]
     public sealed class Dictionary :
         IDictionary<Variant, Variant>,

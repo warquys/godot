@@ -1,9 +1,11 @@
 using System;
+using System.Diagnostics;
 using System.Runtime.InteropServices;
 using Godot.NativeInterop;
 
 namespace Godot
 {
+    [DebuggerDisplay($"{{{nameof(GetDebuggerDisplay)}(),nq}}")]
     public class SignalAwaiter : IAwaiter<Variant[]>, IAwaitable<Variant[]>
     {
         private bool _completed;
@@ -62,6 +64,14 @@ namespace Godot
                 ExceptionUtils.LogException(e);
                 *outAwaiterIsNull = godot_bool.False;
             }
+        }
+
+        private string GetDebuggerDisplay()
+        {
+            if (_completed)
+                return $"Completed = {_completed}, ResultCount = {_result.Length}";
+            else
+                return $"Completed = {_completed}";
         }
     }
 }
